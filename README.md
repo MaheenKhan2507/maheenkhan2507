@@ -80,4 +80,5 @@ Real stake in the company’s results through virtual shares.
 
 <p align="left">
   <a href="https://github.com/MaheenKhan2507"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~010e8bbb750d57b208?mp_source=share"><img src="https://img.shields.io/badge/upwork-000?style=for-the-badge&logo=upwork" /></a>
 </p>
